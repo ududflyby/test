@@ -1,1 +1,2 @@
 print ("Biji")
+print ("Kuda")
